@@ -1,0 +1,13 @@
+.pytest_cache
+.idea
+.data
+venv
+__pycache__
+*.iml
+.env
+Debug.py
+report
+allure-results
+allure-report
+pyvenv.cfg
+tests_data.json
